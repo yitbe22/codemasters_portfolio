@@ -6,7 +6,7 @@
 }
 body {
   height: 100vh;
-  background: linear-gradient(to bottom, #4cc8f9 50%, #090c31 50%);
+  background: linear-gradient(to bottom, #ffa600 50%, #090c31 50%);
 }
 
 .logo{
@@ -61,7 +61,7 @@ body {
 }
 input[type="button"]#equal {
   grid-row: span 2;
-  background-color: #4cc8f9;
+  background-color: rgb(255, 153, 0);
 }
 input[type="button"][value="0"] {
   grid-column: span 2;
