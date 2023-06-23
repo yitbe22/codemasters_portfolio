@@ -17,14 +17,6 @@ body {
   padding-top: 20px;
 }
 
-h2{
-   text-align: center;
-  font-family: "Roboto Mono", monospace;
-   color: #ffffff;
-}
-
-
-
 .container {
   background-color: #f0f9ff;
   position: absolute;
